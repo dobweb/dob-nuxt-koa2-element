@@ -59,6 +59,7 @@ async function start() {
         /^\/admin/,
         /^\/admin\/login/,  // 后台登录页面
         /^\/api\/login/,  // 登录接口
+        /^\/ahead\/*/
 
       ]
     })

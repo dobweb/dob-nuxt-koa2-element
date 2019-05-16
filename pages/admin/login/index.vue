@@ -49,7 +49,14 @@ export default {
   }
 }
 </script>
-<style scoped lang="scss">
+<style lang="scss">
+@import '@/static/element-ui/card.css';
+@import '@/static/element-ui/form.css';
+@import '@/static/element-ui/form-item.css';
+@import '@/static/element-ui/input.css';
+@import '@/static/element-ui/button.css';
+@import '@/static/element-ui/switch.css';
+
 .login {
   width:100%; height: 100vh;
 
