@@ -4,6 +4,9 @@
 
 > 本项目采用NUXT基础框架，融合koa2，element-ui；采用JWT权限认证。
 
+## 获取资源
+$ git clone git@github.com:dobweb/dob-nuxt-koa2-element.git
+
 ## Build Setup
 
 ``` bash

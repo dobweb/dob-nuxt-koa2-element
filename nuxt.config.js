@@ -1,5 +1,5 @@
 const pkg = require('./package')
-
+global.HTMLElement = typeof window === 'undefined' ? Object : window.HTMLElement
 module.exports = {
   mode: 'universal',
 
